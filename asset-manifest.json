@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kainatkiranrashid.github.io/netflixclone/static/css/main.b2326c52.css",
+    "main.js": "/kainatkiranrashid.github.io/netflixclone/static/js/main.4e47a5ce.js",
+    "static/js/787.e100c63e.chunk.js": "/kainatkiranrashid.github.io/netflixclone/static/js/787.e100c63e.chunk.js",
+    "index.html": "/kainatkiranrashid.github.io/netflixclone/index.html",
+    "main.b2326c52.css.map": "/kainatkiranrashid.github.io/netflixclone/static/css/main.b2326c52.css.map",
+    "main.4e47a5ce.js.map": "/kainatkiranrashid.github.io/netflixclone/static/js/main.4e47a5ce.js.map",
+    "787.e100c63e.chunk.js.map": "/kainatkiranrashid.github.io/netflixclone/static/js/787.e100c63e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2326c52.css",
+    "static/js/main.4e47a5ce.js"
+  ]
+}
